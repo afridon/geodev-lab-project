@@ -38,3 +38,9 @@ Downloaded: 12/09/2026
 Key columns: id, road_classification, road_function, form_of_way, road_classification_number, name_1, road_structure, length, primary_route, trunk_road, start_node, end_node.
 Some name_1 values contain NULL values.
 I clipped the layer to the Bridgwater boundary.
+
+## CRS and preparation
+All source layers arrived in EPSG:4326
+Study area: Bridgwater Somerset, extracted from the administrative boundary
+All layers clipped to study area, then reprojected to EPSG:27700
+Working files in GeoDev/data/, raw files untouched 
