@@ -16,7 +16,7 @@ None contains blank or NULL.
 I clipped the layer to cover the boundary.
 
 ## Surface-water flooding
-Source: https://www.data.gov.uk/dataset/dfd734fb-cc68-4229-b60d-8c0280398052/flood-map-for-planning-surface-water-spatial-planning-extents-present-day
+Source: https://environment.data.gov.uk/explore/c853dc8c-9371-4a8f-99ea-a1daa023945e?download=true
 Downloaded: 12/09/2026
 19 features, polygon.
 Key columns: aep, origin, flood_sour.
