@@ -23,6 +23,14 @@ Key columns: id, uuid.
 No blank or NULL in the id or uuid fields.
 I used the local_buildings layer and clipped to the Bridgwater boundary.
 
+## Roads
+Source: https://osdatahub.os.uk/data/downloads/open/OpenRoads
+Downloaded: 12/09/2026
+1739 features, line.
+Key columns: id, road_classification, road_function, form_of_way, road_classification_number, name_1, road_structure, length, primary_route, trunk_road, start_node, end_node.
+Some name_1 values contain NULL values.
+I clipped the layer to the Bridgwater boundary.
+
 ## CRS and preparation
 All source layers arrived in EPSG:4326
 Study area: Bridgwater Somerset, extracted from the administrative boundary
