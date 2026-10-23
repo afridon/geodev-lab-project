@@ -1,6 +1,6 @@
 # My GeoDev Lab Africa project
 
-Which areas of Bridgwater, Somerset sit within 100 metres of high, medium, and low-risk surface water flooding?
+Which areas of Bridgwater, Somerset are exposed to surface-water flooding, and which buildings and roads are located within these areas?
 
 Built over twelve months with GeoDev Lab Africa, Cohort One.
 
