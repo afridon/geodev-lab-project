@@ -1,6 +1,6 @@
 # Data notes
 ## Bridgwater administrative boundary
-Source: https://www.data.gov.uk/dataset/273b0f96-cfc4-48c4-ba98-760f1e929e53/parishes-and-non-civil-parished-areas-may-2026-boundaries-ew-bfc
+Source: https://osdatahub.os.uk/data/downloads/open/BoundaryLine
 Downloaded: 12/09/2026
 1 features, polygon.
 Key columns: PARNCP26CD, PARNCP26NM, LAD26CD, LAD26NM, BNG_E, BNG_N, LONG, LAT, GloballD.
